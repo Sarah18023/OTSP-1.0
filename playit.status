@@ -1,1460 +1,1404 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722396996104 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722400319134 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722396999221 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400322262 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397002398 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400325371 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397005510 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400328476 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397008610 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400331586 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397011710 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400334697 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397014848 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400337799 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397017964 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400340917 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397021112 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400344054 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397024237 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400347192 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397027353 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400350332 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397030447 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400353460 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397033555 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400356592 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397036656 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400359706 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397039755 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400362833 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397042886 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400365964 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397046011 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400369069 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397049130 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400372204 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397052236 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400375325 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397055349 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400378463 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397058471 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400381586 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397061572 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400384705 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397064671 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400387841 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397067771 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400390958 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397070877 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400394100 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397074003 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400397222 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397077126 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400400322 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397080375 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400403429 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397083501 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400406570 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397086634 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400409679 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397089766 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400412807 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397092881 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400415926 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397096009 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400419057 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397099156 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400422177 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397102249 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400425292 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397105361 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400428421 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397108476 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400431546 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397111573 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400434664 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397114686 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400437763 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397117815 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400440869 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397120919 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400443978 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397124017 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400447081 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397127109 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400450192 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397130202 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400453293 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397133309 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400456410 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397136410 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400459531 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397139536 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400462689 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397142696 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400465794 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397145813 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400468905 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397148933 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400472051 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397152046 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400475177 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397155157 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400478332 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397158318 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400481467 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397161417 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400484568 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397164523 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400487696 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397167653 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400490817 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397170779 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400493930 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397173902 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400497057 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397177001 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400500183 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397180114 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400503330 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397183243 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400506456 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397186372 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400509580 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397189507 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400512702 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397192618 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400515803 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397195731 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400518913 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397198836 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400522063 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397201969 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400525289 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397205125 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400528408 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397208267 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400531538 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397211368 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400534637 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397214477 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400537797 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397217584 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400540923 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397220711 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400544043 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397223861 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400547176 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397226978 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400550276 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397230089 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400553380 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397233213 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400556506 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397236329 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400559628 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397239462 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400562750 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397242583 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400565866 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397245681 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400569014 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397248802 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400572146 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397251919 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400575260 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397255034 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400578365 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397258160 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400581471 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397261282 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400584570 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397264391 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400587672 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397267500 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400590798 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397270608 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400593921 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397273719 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400597051 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397276827 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400600193 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397279937 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400603301 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397283060 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400606428 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397286173 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400609539 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397289318 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400612645 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397292438 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400615776 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397295541 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400618896 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397298640 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400622018 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397301756 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400625127 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397304915 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400628234 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397308057 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400631351 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397311165 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400634459 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397314278 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400637583 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397317380 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400640711 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397320511 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400643830 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397323635 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400646950 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397326788 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400650079 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397329893 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400653177 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397333024 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400656282 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397336130 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400659399 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397339235 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400662532 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397342339 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400665654 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397345449 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400668787 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397348545 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400671904 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397351658 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400675016 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397354777 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400678117 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397357878 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400681231 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397361004 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400684347 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397364118 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400687463 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397367229 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400690612 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397370400 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400693742 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397373540 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400696877 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397376671 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400700020 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397379770 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400703182 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397382938 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400706311 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397386044 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400709419 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397389151 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400712535 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397392253 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400715707 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397395360 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400718838 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397398470 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400721976 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397401609 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400725105 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397404712 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400728209 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397407823 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400731330 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397410918 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400734455 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397414021 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400737609 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397417140 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400740731 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397420265 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400743860 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397423370 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400746999 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397426494 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400750115 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397429600 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400753230 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397432709 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400756354 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397435808 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400759487 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397438936 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400762653 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397442053 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400765771 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397445153 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400768884 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397448266 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400772009 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397451370 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400775152 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397454470 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400778277 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397457577 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400781391 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397460703 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400784492 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397463842 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400787637 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397466972 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400790752 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397470076 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400793915 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397473299 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400797064 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397476399 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400800195 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397479679 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400803599 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397482798 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400806752 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397485897 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400809856 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397489009 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400812990 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397492127 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400816100 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397495224 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400819256 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397498327 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400822364 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397501449 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400825491 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397504563 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400828613 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397507677 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400831740 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397510828 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400834864 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397513945 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400837987 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397517065 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400841108 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397520187 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400844215 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397523306 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400847340 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397526444 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400850461 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397529556 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400853573 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397532682 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400856700 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397535802 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400859819 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397538948 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400862937 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397542058 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400866035 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397545163 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400869137 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397548403 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400872255 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397551504 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400875399 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397554616 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400878515 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397557737 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400881646 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397560886 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400884793 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397563998 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400887940 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397567115 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400891078 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397570243 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400894197 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397573348 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400897330 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397576444 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400900463 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397579579 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400903573 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397582691 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400906683 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397585790 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400909785 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397588897 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400912898 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397592038 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400916019 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397595149 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400919133 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397598266 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400922252 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397601437 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400925370 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397604537 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400928504 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397607653 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400931602 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397610799 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400934724 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397613926 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400937839 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397617042 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400941003 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
 story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397620150 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397623289 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397626407 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397629515 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397632625 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397635753 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397638887 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397641999 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-agent-picking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-stay-print.gl.at.ply.gg:2596 => 127.0.0.1:2596 (minecraft-bedrock)
-story-counseling.gl.at.ply.gg:2595 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1722397645135 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722400944126 tunnel running, 3 tunnels registered
 
 
 TUNNELS
